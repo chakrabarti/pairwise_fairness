@@ -1,0 +1,10 @@
+,Parameter Value,Average Separation Ratio,Maximum Separation Ratio,Max to Optimal Ratio,Maximum Radius,Average Number of Different Clusters,Maximum Number of Different Clusters
+Unfair Clustering Method,Scr,0.21385887145185917,23.333333333333332,1.09375,70.0,1.44,4.0
+Unfair Clustering Method,Gonzalez,0.05997769252077689,17.5,1.359375,87.0,1.125,3.0
+Unfair Clustering Method,GonzalezPlus,0.09593505352999171,23.333333333333332,1.328125,85.0,1.185,3.0
+,Parameter Value,Average Separation Ratio,Maximum Separation Ratio,Average Max to Opt Radius Ratio,Overall Max to Opt Radius Ratio,Average Maximum Radius,Overall Maximum Radius,Average Number of Different Clusters,Maximum Number of Different Clusters
+Scale Param 1,4.375,0.7053632428046602,5.2955,1.4037734375,2.0,89.8415,128.0,1.358417,2.4285
+Scale Param 2,8.75,0.7053007914558999,4.564,1.508840625,2.375,96.5658,152.0,1.3599715,2.4092
+Scale Param 3,17.5,0.6317342364394484,3.066,1.6811609375,2.859375,107.5943,183.0,1.3100985,2.0793
+Scale Param 4,35.0,0.45361299149174067,1.6044,1.8105703125,2.6875,115.8765,172.0,1.2118815,1.6265
+Scale Param 5,70.0,0.279288630892846,0.8995000000000001,1.801865625,2.6875,115.3194,172.0,1.1234045,1.3343
